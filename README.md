@@ -99,12 +99,12 @@ philosophy:  "Ship it, measure it, fix it, sell it."
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ZeroScriptz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=1F6FEB&include_all_commits=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroScriptz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zerodevelops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=1F6FEB&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerodevelops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&langs_count=8"/>
 
-<img src="https://streak-stats.demolab.com?user=ZeroScriptz&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=1F6FEB&currStreakLabel=00F7FF" />
+<img src="https://streak-stats.demolab.com?user=zerodevelops&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=1F6FEB&currStreakLabel=00F7FF" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZeroScriptz&bg_color=0D1117&color=00F7FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zerodevelops&bg_color=0D1117&color=00F7FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
@@ -113,9 +113,9 @@ philosophy:  "Ship it, measure it, fix it, sell it."
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZeroScriptz/ZeroScriptz/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZeroScriptz/ZeroScriptz/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/ZeroScriptz/ZeroScriptz/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zerodevelops/zerodevelops/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zerodevelops/zerodevelops/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/zerodevelops/zerodevelops/output/github-snake-dark.svg" />
 </picture>
 
 </div>
