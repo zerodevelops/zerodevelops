@@ -115,6 +115,10 @@ philosophy:  "Ship it, measure it, fix it, sell it."
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zerodevelops/zerodevelops/output/github-snake.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/zerodevelops/zerodevelops/output/github-snake-dark.svg" />
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/z-darnell/z-darnell/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/z-darnell/z-darnell/output/github-snake.svg" />
+</picture>
 
 </div>
 
