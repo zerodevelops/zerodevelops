@@ -98,7 +98,6 @@ philosophy:  "Ship it, measure it, fix it, sell it."
 ## 📊 By the Numbers
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerodevelops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&langs_count=8"/>
 
 <img src="https://streak-stats.demolab.com?user=zerodevelops&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=1F6FEB&currStreakLabel=00F7FF" />
 
