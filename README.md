@@ -105,7 +105,13 @@ philosophy:  "Ship it, measure it, fix it, sell it."
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zerodevelops&bg_color=0D1117&color=00F7FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
+<div align="center">
+  
+<img src="https://streak-stats.demolab.com?user=z-darnell&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=1F6FEB&currStreakLabel=00F7FF" />
 
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=z-darnell&bg_color=0D1117&color=00F7FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
 <!-- ═══════════════════════════════  SNAKE  ═══════════════════════════════ -->
 
 <div align="center">
@@ -115,11 +121,7 @@ philosophy:  "Ship it, measure it, fix it, sell it."
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zerodevelops/zerodevelops/output/github-snake.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/zerodevelops/zerodevelops/output/github-snake-dark.svg" />
 </picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/z-darnell/z-darnell/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/z-darnell/z-darnell/output/github-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/zerodevelops/zerodevelops/output/github-snake-dark.svg" />
-</picture>
+
 
 </div>
 
