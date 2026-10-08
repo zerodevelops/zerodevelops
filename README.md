@@ -22,7 +22,7 @@
 
 ```yaml
 name:        Zack Darnell
-handle:      ZeroScriptz (ZERO)
+handle:      ZeroDevelops (ZERO)
 location:    Dallas, Texas 🤠
 role:        Solutions Architect & Integration Engineer @ ECOM Specialist
 studio:      Founder @ Virtex Solutions — consulting + micro-SaaS product studio
@@ -98,8 +98,6 @@ philosophy:  "Ship it, measure it, fix it, sell it."
 ## 📊 By the Numbers
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zerodevelops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=1F6FEB&include_all_commits=true&count_private=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerodevelops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&langs_count=8"/>
 
 <img src="https://streak-stats.demolab.com?user=zerodevelops&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=1F6FEB&currStreakLabel=00F7FF" />
