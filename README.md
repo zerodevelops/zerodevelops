@@ -52,7 +52,7 @@ philosophy:  "Ship it, measure it, fix it, sell it."
 | Project | What it is | Stack |
 |---|---|---|
 | 🖨️ **PrintBridge** | Print middleware SaaS — local REST API that talks ZPL, ESC/POS, EPL, PDF, HTML & PNG to any printer. Launched on Product Hunt, published to npm. | `Electron` `Node` `Supabase` `Stripe` |
-| 📡 **PermitPulse** | Permit-data intelligence for home-services contractors — multi-city ingestion, 5-layer enrichment, 100-pt lead scoring, AI lead narratives, live territory map. | `Python` `FastAPI` `PostgreSQL` `Celery` `Leaflet` |
+| 📡 **PermitPulse** | Permit-data intelligence for home-services contractors — multi-city ingestion, 5-layer enrichment, 100-pt lead scoring, AI lead narratives, live territory map. | `Rust`, `Python` `FastAPI` `PostgreSQL` `Celery` `Leaflet` |
 | 🐋 **Orcastr8** | AI-native workflow orchestration engine with a custom state machine — durable runs without the Temporal tax. | `FastAPI` `Celery` `PostgreSQL` `Docker` `LLMs` |
 | 🤖 **Inbox-to-Quote Agent** | 4-stage AI agent that turns inbound email into quotes. Swap Anthropic / Groq / any OpenAI-compatible model with one env var. | `Python` `LLMs` |
 
